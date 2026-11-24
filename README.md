@@ -77,6 +77,8 @@ Authentication establishes identity. It does not automatically establish permiss
 
 AAE treats these as distinct authorization concerns rather than assuming that successful authentication or access establishes broader authority.
 
+Where other management systems undertake governance at runtime, AAE establishes governance as a precursor to it. Governance must be built into the design, framework, and systems from inception and the ability to implement controls comes as the first requirement. These same methodologies can be used as a means by which to creative proactive preventive measures as well.
+
 ### 1.3 Data Loss Prevention (DLP)
 
 DLP systems protect information by identifying and enforcing restrictions on how data can be accessed, transferred, or disclosed.
